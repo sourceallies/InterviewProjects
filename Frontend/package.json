@@ -1,0 +1,27 @@
+{
+  "name": "interview-web-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "zombie": "^5.0.7"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "http-server ./source"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourceallies/interview-web-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourceallies/interview-web-project/issues"
+  },
+  "homepage": "https://github.com/sourceallies/interview-web-project#readme"
+}
