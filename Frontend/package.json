@@ -7,8 +7,8 @@
     "http-server": "^0.10.0"
   },
   "devDependencies": {
-    "mocha": "^4.0.1",
-    "zombie": "^5.0.7"
+    "mocha": "^4.1.0",
+    "zombie": "^6.1.1"
   },
   "scripts": {
     "test": "mocha",
